@@ -30,7 +30,7 @@
 <script>
 export default{
     name: "CardHeader",
-    props:["header"]
+    props:["header"],
 }
 </script>
 
